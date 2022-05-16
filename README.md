@@ -24,7 +24,7 @@ I am a full stack software engineer!
 - ✳️ My hobbies include ⚽ soccer, 🥊 boxing and reading comics 📚
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/brandonhdzgtz/'>LinkedIn</a>
 - 😄 Pronouns: He/Him
-- 💍 Married to my amazing wife Cinthia since 06/21/19
+- 💍 Married since 06/21/19
 - ⚡ Fun fact: Liam Neeson, the actor famous for action movies like 'Taken' and 'The A-Team', was once an Irish amateur boxing champion.
 
 ![](https://media1.giphy.com/media/WJdNmeAxkpZIc/giphy.gif?cid=ecf05e47akb4zbr2ruvrvmsod2n4lj2djq9mw2b6vwk4fzgg&rid=giphy.gif&ct=g)
